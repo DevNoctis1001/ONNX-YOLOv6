@@ -1,7 +1,7 @@
 # ONNX YOLOv6 Object Detection
  Python scripts performing object detection using the YOLOv6 model in ONNX.
 
-![! ONNX YOLOv6 Object Detection](https://github.com/ibaiGorordo/ONNX-YOLOv6-Object-Detection/blob/main/doc/img/detected_objects.jpg)
+![! ONNX YOLOv6 Object Detection](https://github.com/DevNoctis1001/ONNX-YOLOv6/blob/main/doc/img/detected_objects.jpg)
 *Original image: https://commons.wikimedia.org/wiki/File:Motorcyclists_lane_splitting_in_Bangkok,_Thailand.jpg*
 
 # Important
